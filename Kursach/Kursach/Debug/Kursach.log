@@ -1,0 +1,35 @@
+﻿Build started 12.11.2019 0:32:44.
+     1>Project "D:\Program Files\pr1\Kursach\Kursach\Kursach.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Program Files\Kursach\SFML-2.5.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\program files\pr1\kursach\kursach\main.cpp(108): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(109): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(110): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(118): warning C4244: 'initializing' : conversion from 'sf::Int64' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(130): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(130): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(131): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(131): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(132): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(132): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(153): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(157): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(205): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(217): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(217): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(218): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(218): warning C4244: 'argument' : conversion from 'const float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(256): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(317): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(484): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(485): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\program files\pr1\kursach\kursach\main.cpp(495): warning C4715: 'startGame' : not all control paths return a value
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Program Files\pr1\Kursach\Debug\Kursach.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\Kursach\SFML-2.5.1\lib" "sfml-main.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Program Files\pr1\Kursach\Debug\Kursach.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Program Files\pr1\Kursach\Debug\Kursach.lib" /MACHINE:X86 Debug\main.obj
+         Kursach.vcxproj -> D:\Program Files\pr1\Kursach\Debug\Kursach.exe
+     1>Done Building Project "D:\Program Files\pr1\Kursach\Kursach\Kursach.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02
